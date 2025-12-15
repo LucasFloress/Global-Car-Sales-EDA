@@ -39,3 +39,19 @@ El notebook incluye:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+2. Instala las dependencias
+   ```bash
+   pip install pandas matplotlib seaborn jupyter
+3. Ejecuta el notebook
+   ```bash
+   jupyter notebook DataChallenge_Flores_Lucas.ipynb
+
+## ✒️ Autor
+
+Lucas Ezequiel Flores
+
+Rol: Desarrollador Full Stack & Data Analyst
+
+LinkedIn: linkedin.com/in/lucas-ezequiel-flores
+
+Email: floreslucas125@gmail.com
